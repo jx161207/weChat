@@ -1,0 +1,9 @@
+@import "./styles/base.wxss";
+@import "./lib/wxParse/wxParse.wxss";
+page{
+  height: 100%;
+  background-color: #f8f8f8;
+}
+.green{
+  color: green;
+}
